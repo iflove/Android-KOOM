@@ -1,7 +1,7 @@
 plugins {
     id 'com.android.library'
 }
-
+group = 'com.github.iflove'
 apply from: rootProject.file('gradle/common.gradle')
 //apply from: rootProject.file('gradle/mavenCentral-publish.gradle')
 
